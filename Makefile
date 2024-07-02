@@ -1,7 +1,7 @@
 #!/bin/bash
 
 UID = $(shell id -u)
-DOCKER_BE = symfony-app
+DOCKER_BE = event-sourcing-php
 
 help: ## Show this help message
 	@echo 'usage: make [target]'
