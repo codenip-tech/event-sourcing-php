@@ -14,3 +14,7 @@ This repository contains an example of Event Sourcing architecture using Symfony
 - `make prepare` to install dependencies with composer (once the project has been created)
 - `make logs` to see application logs
 - `make ssh` to SSH into the application container
+
+UML of this example
+
+![uml](image.png)
